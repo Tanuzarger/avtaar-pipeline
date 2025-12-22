@@ -33,6 +33,7 @@ Output is smooth, expressive, and lip-synced
 
 
 Models & Tools Used
+
 **Audio / Voice**
 Coqui TTS (XTTS – speaker-conditioned TTS)
 Used for text-to-speech and voice cloning
@@ -53,6 +54,3 @@ FFmpeg
 OpenCV
 NumPy
 
-
-
-You’ve done solid work — this README reflects that clearly 👏
