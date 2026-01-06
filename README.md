@@ -48,7 +48,7 @@ SadTalker
 Used for facial expressions, head motion, and realistic animation
 
 **Link For Checkpoints**
-https://drive.google.com/drive/folders/1Wd88VDoLhVzYsQ30_qDVluQr_Xm46yHT
+https://drive.google.com/drive/folders/1kUqhplRd-54SRNwc00FNq0i7deBLpA6t?usp=sharing
 
 **Core Frameworks & Utilities**
 PyTorch
