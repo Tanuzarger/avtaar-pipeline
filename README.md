@@ -47,6 +47,8 @@ Used for accurate lip synchronization between face and audio
 SadTalker
 Used for facial expressions, head motion, and realistic animation
 
+**Link For Checkpoints**
+https://drive.google.com/drive/folders/1Wd88VDoLhVzYsQ30_qDVluQr_Xm46yHT
 
 **Core Frameworks & Utilities**
 PyTorch
